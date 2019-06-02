@@ -1,0 +1,125 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Yu Mincho;
+
+}
+a{
+  text-decoration: none;
+}
+
+.box{
+  margin: 100px 100px 100px 70px;
+  text-align: center;
+  width: 1200px;
+
+}
+
+.top{
+  margin: 50px 30px;
+
+}
+
+.kyuenmark{
+  height: 65px;
+}
+
+.logo{
+  float: left;
+}
+
+.logotext{
+
+border-bottom: 5px solid black;
+height: 45px;
+font-weight: bold;
+line-height: 50px;
+font-size: 27px;
+float: left;
+}
+
+.part{
+  color: rgb(28, 184, 132);
+}
+.top-left{
+  float: left;
+}
+
+.aiyaimage_set{
+  margin: 50px 40px;
+}
+
+.btn{
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+
+.btn:hover{
+  opacity: 1;
+}
+
+.ticket{
+  font-size: 26px;
+  padding: 15px 40px;
+   background-color: rgb(29, 128, 101);
+   cursor: pointer;
+   box-shadow: 0 7px rgb(11, 70, 58);
+}
+
+.ticket:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+
+.bundan{
+  margin: 100px 0;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(32, 28, 28);
+}
+
+
+.story p{
+  font-size: 25px;
+}
+
+h2{
+  font-size: 50px;
+}
+
+.sche{
+  text-align: center;
+
+}
+
+.day{
+  margin: 40px;
+}
+.day h3{
+  font-size: 35px;
+}
+.day p{
+  font-size: 27px;
+}
+.comment{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.actorwap h1{
+  height: 100px;
+  margin: 50px auto;
+}
+.pon{
+  font-size: 27px;
+  font-weight: bold;
+}
+.ponaccess{
+  font-size: 25px;
+}
