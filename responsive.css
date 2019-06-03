@@ -1,0 +1,28 @@
+@media (max-width: 670px){
+
+  .logo{
+    float: none;
+  }
+  .logotext{
+    top: 20px;
+    width: 100%;
+  }
+  .box{
+    margin: 30px 0;
+    width: 100%;
+    text-align: center;
+
+  }
+  .top-right{
+    display: none;
+  }
+  .top-left{
+text-align: center;
+float: none;
+
+  }
+.top-left{
+  position: relative;
+  top: 20px;
+ }
+}
