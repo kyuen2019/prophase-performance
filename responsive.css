@@ -26,6 +26,7 @@ float: none;
   top: 20px;
  }
   .top-left a{
+   max-width: 100%;
    width: 100%;
    font-size: 15px;
  }
