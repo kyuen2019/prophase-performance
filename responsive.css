@@ -25,8 +25,8 @@ float: none;
   position: relative;
   top: 20px;
  }
-  .top-left a{
-   max-width: 100%;
+
+ .top-left a{
    width: 100%;
    font-size: 15px;
  }
