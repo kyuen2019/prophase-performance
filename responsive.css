@@ -25,7 +25,10 @@ float: none;
   position: relative;
   top: 20px;
  }
-  
+ .top-left a{
+   font-size: 15px;
+   width: 100%;
+  }
  .aiyaimage{
    max-width: 100%;
   }
