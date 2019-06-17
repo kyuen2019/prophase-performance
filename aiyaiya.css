@@ -1,5 +1,6 @@
 *{
   box-sizing: border-box;
+
 }
 
 body{
@@ -13,9 +14,11 @@ a{
 }
 
 .box{
-  margin: 100px 100px 100px 70px;
+  margin: 100px 100px auto auto;
   text-align: center;
   width: 1200px;
+ background-color: white;
+ border-radius: 15px;
 
 }
 
@@ -45,8 +48,9 @@ float: left;
 .part{
   color: rgb(28, 184, 132);
 }
-.top-left{
-  float: left;
+
+.top-right{
+  display: none;
 }
 
 .aiyaimage_set{
@@ -126,4 +130,11 @@ h2{
 }
 .ponaccess{
   font-size: 25px;
+}
+
+.urakatawap h3{
+  font-size: 45px;
+}
+.urakatawap p{
+  font-size: 27px;
 }
