@@ -16,6 +16,10 @@
   .top-right{
     display: none;
   }
+  .aiyaimage{
+    width: 332px;
+    height: 135px;
+  }
   .top-left{
 text-align: center;
 float: none;
@@ -33,4 +37,15 @@ float: none;
  .aiyaimage{
    max-width: 100%;
  }
+
+
+.story p{
+  font-size: 15px;
+}
+.urakatawap img{
+  width: 100%;
+}
+.urakatawap p{
+  font-size: 24px;
+}
 }
