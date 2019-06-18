@@ -56,6 +56,10 @@ float: left;
 .aiyaimage_set{
   margin: 50px 40px;
 }
+.aiyaimage{
+   width:500px;
+   height:205px;
+}
 
 .btn{
   padding: 8px 24px;
