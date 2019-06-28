@@ -178,3 +178,10 @@ h2{
 .txt{
   overflow: hidden;
 }
+.qbox{
+  border: double 3px black;
+}
+.topic{
+  font-size: 20px;
+  font-weight: bold;;
+}
