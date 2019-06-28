@@ -153,3 +153,25 @@ h2{
   max-width: 80%;
   height: auto;
 }
+.actor{
+
+  position: relative;
+  text-align: left;
+  display: inline-block;
+  width: 80%;
+}
+.actor img{
+  float:left;
+  margin-right: 10px;
+  border: solid 2px black;
+}
+.pro{
+
+}
+.name{
+  font-size: 25px;
+  border-bottom: solid 5px black;
+}
+.txt{
+  overflow: hidden;
+}
