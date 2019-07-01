@@ -176,6 +176,7 @@ h2{
   border-bottom: solid 5px black;
 }
 .txt{
+  font-size: 15px;
   overflow: hidden;
 }
 .qbox{
@@ -184,4 +185,26 @@ h2{
 .topic{
   font-size: 20px;
   font-weight: bold;;
+}
+.block{
+  display: none;
+}
+.jabara{
+background-color: rgb(29, 128, 101);
+display: block;
+font-size: bold;
+font-size: 30px;
+text-align: left;
+cursor: pointer;
+}
+.jabara span{
+  float: right;
+  border: solid 2px white;
+}
+.pcOnly{
+  display: block;
+
+}
+.smahoOnly{
+  display: none;
 }
