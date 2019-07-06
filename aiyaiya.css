@@ -6,7 +6,7 @@
 body{
   margin: 0;
   text-align: center;
-  font-family: Yu Mincho;
+  font-family: "Yu Mincho","Sawarabi Mincho";
 
 }
 a{
@@ -96,8 +96,11 @@ float: left;
 }
 
 
-.story p{
+.storyPc{
   font-size: 25px;
+}
+.storyPhone{
+  display: none;
 }
 
 h2{
@@ -207,4 +210,12 @@ cursor: pointer;
 }
 .smahoOnly{
   display: none;
+}
+video{
+  width: 80%;
+  height: auto;
+}
+hr{
+  height: 5px;
+  background-color: rgb(32, 28, 28);
 }
